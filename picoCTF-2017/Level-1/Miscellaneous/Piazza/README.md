@@ -2,7 +2,7 @@
 **Category:** Misc **Points:** 10
 
 **Description:**
->Have questions about pico? You can ask here. The access code is 31337.
+>Have questions about pico? You can ask [here](https://piazza.com/picoctf/spring2017/31337). The access code is 31337.
 
 **Hint:**
 > None given
