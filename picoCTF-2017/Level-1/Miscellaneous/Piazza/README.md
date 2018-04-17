@@ -1,5 +1,5 @@
 # Piazza
-**Points:** 10
+**Category:** Misc **Points:** 10
 
 **Description:**
 >Have questions about pico? You can ask here. The access code is 31337.
