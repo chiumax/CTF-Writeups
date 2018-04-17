@@ -1,5 +1,5 @@
 # WorldChat
-**Points:** 30
+**Category:** Misc **Points:** 30
 
 **Description:**
 >We think someone is trying to transmit a flag over WorldChat. 
