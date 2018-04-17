@@ -1,5 +1,5 @@
 # Leaf of the Tree
-**Points:** 20
+**Category:** Misc **Points:** 20
 
 **Description:**
 >We found this annoyingly named directory tree starting at /problems/a45d1519bd193bc3a273744c83fad1e2. 
