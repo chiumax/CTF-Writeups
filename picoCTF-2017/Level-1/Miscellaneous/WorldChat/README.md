@@ -45,6 +45,22 @@ tand me to understand me
  
  So, we need to find something more specific.
  
- There's someone by the name of 
+ There's someone by the name of `flagperson` that is distributing parts of the flag.
+ 
+ `nc shell2017.picoctf.com 48145 | grep flagperson`
+ 
+ All parts of the flag:
+ 
+ ```
+ dumblole@shell-web:~$ nc shell2017.picoctf.com 48145 | grep flagperson                             
+03:11:13 flagperson: this is part 1/8 of the flag - 748a
+03:11:16 flagperson: this is part 2/8 of the flag - 3a37
+03:11:21 flagperson: this is part 3/8 of the flag - ce62
+03:11:24 flagperson: this is part 4/8 of the flag - e537
+03:11:27 flagperson: this is part 5/8 of the flag - 4552
+03:11:32 flagperson: this is part 6/8 of the flag - c31f
+03:11:35 flagperson: this is part 7/8 of the flag - 5319
+03:11:36 flagperson: this is part 8/8 of the flag - 30dc
+```
 
-**Flag:**
+**Flag: 748a3a37ce62e5374552c31f531930dc**
