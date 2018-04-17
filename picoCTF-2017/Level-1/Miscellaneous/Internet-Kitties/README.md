@@ -1,5 +1,5 @@
 # Internet Kitties
-**Points:** 10
+**Category:** Misc **Points:** 10
 
 **Description:**
 >I was told there was something at IP shell2017.picoctf.com with port 24369. How do I get there? Do I need a ship for the port?
