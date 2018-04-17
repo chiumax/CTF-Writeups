@@ -1,5 +1,5 @@
 # looooong
-**Points:** 20
+**Category:** Misc **Points:** 20
 
 **Description:**
 >I heard you have some "delusions of grandeur" about your typing speed. How fast can you go at shell2017.picoctf.com:1603?
