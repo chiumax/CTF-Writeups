@@ -22,8 +22,7 @@ The hint shows us that there's a helpful command called `grep`.
 `nc shell2017.picoctf.com 48145 | grep flag` should work, but they've tricked us!
 
 ```
-dumblole@shell-web:/$ nc shell2017.picoctf.com 48145 | grep fla
-g
+dumblole@shell-web:/$ nc shell2017.picoctf.com 48145 | grep flag
 18:25:16 noihazflag: A huge moose is our best chance to drink y
 our milkshake                                                  
 18:25:17 whatisflag: Scary pandas need to meet up for what, I d
