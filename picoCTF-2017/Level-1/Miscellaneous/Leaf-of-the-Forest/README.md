@@ -1,5 +1,5 @@
 # Leaf of the Forest
-**Points:** 30
+**Category:** Misc **Points:** 30
 
 **Description:**
 >We found an even bigger directory tree hiding a flag starting at /problems/ba3662836dafb25fdcb412b505b7b677. 
