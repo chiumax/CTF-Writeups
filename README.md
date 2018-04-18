@@ -12,3 +12,8 @@ A collection of writeups to some of the CTFs I've participated in.
 * **L Distribution** (current)
 * **dumblole** (solo)
 * **I <3 Megumin**
+
+## Why do I write writeups?
+* Helps me better understand what I did since I have to explain the process
+* Just for fun
+* I hope these writeups can help others - Just trying to be the person I needed when I was a noob
