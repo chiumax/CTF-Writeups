@@ -11,3 +11,4 @@ A collection of writeups to some of the CTFs I've participated in.
 ## **CTF Teams I've been a part of :family:**
 * **L Distribution** (current)
 * **dumblole** (solo)
+* **I <3 Megumin**
