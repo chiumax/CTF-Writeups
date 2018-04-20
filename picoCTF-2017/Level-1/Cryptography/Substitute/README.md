@@ -8,7 +8,7 @@
 >There are tools that make this easy this.
 
 ## Solve
-The link contains a whole chunk of jumbled text. The name says substitute, so let's try out a substitution cipher.
+The link contains a whole chunk of jumbled text. The name says substitute, so let's try out a [substitution cipher](https://quipqiup.com/).
 
 We got the flag!
 
