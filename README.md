@@ -9,7 +9,8 @@ A collection of writeups to some of the CTFs I've participated in.
 
 
 ## **CTF Teams I've been a part of :family:**
-* **L Distribution** (current)
+* **L Distribution Rejects** (current)
+* **L Distribution** 
 * **dumblole** (solo)
 * **I <3 Megumin**
 
