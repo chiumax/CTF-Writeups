@@ -11,7 +11,7 @@
 ## Solve
 Download the image [file](https://github.com/dumblole/CTF-Writeups/blob/master/PACTF-2018/images/image.d25eefefc427.jpg).
 
-Open the file with notepad or notepad++ or whatever you want to look at the text.
+Open the file with notepad or notepad++ or whatever you want to look at the text. 
 
 ![alt text](https://github.com/dumblole/CTF-Writeups/blob/master/PACTF-2018/images/ssssss.PNG)
 
