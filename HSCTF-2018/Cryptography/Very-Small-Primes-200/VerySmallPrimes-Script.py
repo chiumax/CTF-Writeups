@@ -3,7 +3,7 @@ Finds p for N in RSA
 Use if you're sure if p is relatively small
 like 1 billion
 '''
-
+#Python 3.6.0
 def factor(n):
     divisor = 3
     while True:
