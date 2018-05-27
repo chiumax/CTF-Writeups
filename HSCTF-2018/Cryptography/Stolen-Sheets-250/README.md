@@ -1,5 +1,5 @@
 # Title
-**Category:** Cryptography **Points:** 250 **Solves:**
+**Category:** Cryptography **Points:** 250 **Solves:** 238
 
 **Description:**
 >Keith finds a sheet of paper with the following items:
@@ -7,13 +7,13 @@
 A Sheet of Paper
 one	    qzc
 two	    xwq
-three	xbpcc
-four	tqop
-five	tsfc
+three  	xbpcc
+four  	tqop
+five	  tsfc
 six	    gsn
-seven	gcfcz
-eight	cskbx
-nine	zszc
+seven 	gcfcz
+eight	  cskbx
+nine  	zszc
 ten	    xcz
 ````
 >The flag will be the message "mrkcdpmsuimzstqrlg" decoded. 
