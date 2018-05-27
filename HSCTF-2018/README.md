@@ -3,7 +3,7 @@ Under construction
 
 
 <p align="center">
-  <img src="https://github.com/dumblole/CTF-Writeups/blob/master/picoCTF-2017/images/logo/PicoCtfLogo.png">
+  <img src="https://github.com/dumblole/CTF-Writeups/blob/master/HSCTF-2018/images/logo/logo.png">
 </p>
 
 Key| Value
