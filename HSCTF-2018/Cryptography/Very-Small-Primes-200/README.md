@@ -1,5 +1,5 @@
 # Very Small Primes
-**Category:** Cryptography **Points:** 200 **Solves:**
+**Category:** Cryptography **Points:** 200 **Solves:** 62
 
 **Description:**
 >During their algebraic geometry class, Pawel and Keith had a conversation. A short transcript of the conversation is given below:
@@ -24,8 +24,51 @@
 
 
 ## Solve
+I suggest reading up on [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) before reading this.
+Let's take a look at what they give me:
+* This is an RSA problem
+* Flag is an ASCII string
+* `e` (public key) is 65537
+* `n` (modulus) is in base 16
+* `c` (cipher-text) is also in base 16
+* `p` (modulus component) can be at most 999,999 (Simone)
 
+Now all we need now is  `q` (modulus component) so we can find `d` (private key) and finally decrypt `c` (cipher-text).
 
-**Flag:**
+Since we know that one of the factors of `n` is less than 1,000,000 (one million) it would be very easy to brute-force.
+
+I wrote a program in Python 3.6.0 to brute force every odd number (primes are odd numbers) between 0 and 1,000,000.
+```
+def factor(n):
+    divisor = 3
+    while True:
+        if n%divisor == 0:
+            print(divisor)
+            print(n/divisor)
+            break
+        else:
+            divisor+=2
+```
+Convert `n` to base 10, run `factor(n)` and we get:
+```
+999773
+```
+As `p`. Now we can get `q` by dividing `n` by `p`:
+```
+7219916817531804172364850659827632974807357287764480799181141485823846048356378179361052132255775673267660510597501956379372204391923071155643562418428411828698884044922223603296034358685815575974984872191566840161883684688253545602801607671703034058309770344003266878705116369807966628980919048344579
+```
+With `p` and `q`, we can finally get `d` by using the modular multiplicative inverse of `e` and phi `n`. Look [here](https://stackoverflow.com/questions/4798654/modular-multiplicative-inverse-function-in-python?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa) for a python script to do it for you.
+```
+417502229327473395118183058782860785031894183173528193352646066020816648283807501290900872443499537030097388296577580318266256237614908894887326208179024440867659615918784406775804521747584148242291821653009461433650968947520715054172886761267711972507875832818986088871590840703106680356234078804931373569
+```
+Now we can break c, which gives up
+```
+1021089710312367114971051034583109101108108115456697100125
+```
+Flag is in ASCII, so let's convert it from decimal to ASCII.
+
+**Flag:** `flag{Craig-Smells-Bad}`
 
 ## **References**
+* https://en.wikipedia.org/wiki/RSA_(cryptosystem)
+* https://stackoverflow.com/questions/4798654/modular-multiplicative-inverse-function-in-python?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
