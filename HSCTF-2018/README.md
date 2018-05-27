@@ -1,9 +1,8 @@
 Under construction
 
 
-
 <p align="center">
-  <img src="https://github.com/dumblole/CTF-Writeups/blob/master/HSCTF-2018/images/logo/logo.png">
+  <img src="https://github.com/dumblole/CTF-Writeups/blob/master/HSCTF-2018/images/logo/logo.png" height="200" width = "200"> 
 </p>
 
 Key| Value
