@@ -8,8 +8,8 @@ Under construction
 Key| Value
 ---|---
 Team|L Distribution Rejects
-Score|N/A
-Place|N/A
+Score|3175
+Place|23/324
 
 Write ups for the problems I did for [HSCTF 2018](https://compete.hsctf.com/challenges/ "2018 HSCTF")
 
