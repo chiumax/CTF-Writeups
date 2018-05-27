@@ -1,5 +1,5 @@
 # Blown Apart
-**Category:** Cryptography **Points:** 350 **Solves:**
+**Category:** Cryptography **Points:** 350 **Solves:** 25
 
 **Description:**
 >Keith has discovered that Cueball is, yet again, sending everyone (except for Keith) some message, again encrypted using RSA. However, this time the number of people who received Cueball's message is more than 6!. Help Keith decrypt Cueball's message! Keith has been eavesdropping on Cueball's conversations, and has a complete log saved at file.txt.
