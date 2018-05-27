@@ -19,11 +19,11 @@ Write ups for the problems I did for [HSCTF 2018](https://compete.hsctf.com/chal
 Completed challenges I did for my team:
 
 * Algorithm
-	* [Algorithm/OK-250]()
+	* [Algorithm/OK-250](https://github.com/dumblole/CTF-Writeups/tree/master/HSCTF-2018/Algorithm/OK-250)
 * Cryptography 
-	* [Cryptography/Master-Keys-200]()
-	* [Cryptography/Very-Small-Primes-200]()
-	* [Cryptography/Stolen-Sheets-250]()
-	* [Cryptography/Blown-Apart-350]()
+	* [Cryptography/Master-Keys-200](https://github.com/dumblole/CTF-Writeups/tree/master/HSCTF-2018/Cryptography/Master-Keys-200)
+	* [Cryptography/Very-Small-Primes-200](https://github.com/dumblole/CTF-Writeups/tree/master/HSCTF-2018/Cryptography/Very-Small-Primes-200)
+	* [Cryptography/Stolen-Sheets-250](https://github.com/dumblole/CTF-Writeups/tree/master/HSCTF-2018/Cryptography/Stolen-Sheets-250)
+	* [Cryptography/Blown-Apart-350](https://github.com/dumblole/CTF-Writeups/tree/master/HSCTF-2018/Cryptography/Blown-Apart-350)
 
  
