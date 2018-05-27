@@ -17,4 +17,4 @@ Open the file with notepad or notepad++ or whatever you want to look at the text
 
 The flag is near the beginning of the file.
 
-**Flag: flag_is_DjKVIXXQRZZrrAd** 
+**Flag: ** `flag_is_DjKVIXXQRZZrrAd` 
