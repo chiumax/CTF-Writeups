@@ -8,6 +8,8 @@ Team|L Distribution Rejects
 Score|3175
 Place|23/324
 
+![scoreboard](https://github.com/dumblole/CTF-Writeups/blob/master/HSCTF-2018/images/scoreboard.PNG)
+
 Write ups for the problems I did for [HSCTF 2018](https://compete.hsctf.com/challenges/ "2018 HSCTF")
 
 
