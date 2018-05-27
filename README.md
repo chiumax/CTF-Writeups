@@ -8,7 +8,6 @@ A collection of writeups to some of the CTFs I've participated in. These writeup
 * [2018] EasyCTF IV - https://ctftime.org/event/573
 * [2018] Angstrom CTF - https://ctftime.org/event/577
 * [2017] CSAW HSF (High School Forensics)
-* [2017] picoCTF 2017 - https://ctftime.org/event/443 | [Writeup](https://github.com/dumblole/CTF-Writeups/tree/master/picoCTF-2017#picoctf-2017 "picoCTF2017") *Under Construction*
 
 
 ## **CTF Teams I've been a part of :family:**
