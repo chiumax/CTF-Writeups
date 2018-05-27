@@ -3,24 +3,12 @@
 
 **Description:**
 >Keith finds a sheet of paper with the following items:
-```
-A Sheet of Paper
-one	    qzc
-two	    xwq
-three  	xbpcc
-four  	tqop
-five	  tsfc
-six	    gsn
-seven 	gcfcz
-eight	  cskbx
-nine  	zszc
-ten	    xcz
-````
+![SheetofPaper](https://github.com/dumblole/CTF-Writeups/blob/master/HSCTF-2018/images/solen-sheetsproblem.PNG)
 >The flag will be the message "mrkcdpmsuimzstqrlg" decoded. 
 
 
 ## Solve
-Judging from the list, we can see that the cipher text has the same length as the plain text and that the letters used matched up with other letter in other texts in the list.
+Judging from the list, we can see that the cipher text has the same length as the plain text and that the letters used matched up with other letters in other texts in the list.
 
 Let's write down what we have so far:
 ```
@@ -53,9 +41,9 @@ y = ?
 z = ?
 ```
 
-Let's input what we got into a [substitution cipher decoder]().
+Let's input what we got into a [substitution cipher decoder](https://quipqiup.com/).
 
-![quipqiup.com]()
+![quipqiup.com](https://github.com/dumblole/CTF-Writeups/blob/master/HSCTF-2018/images/Stolen-Sheets.PNG)
 **Flag:** `algebraicmanifolds`
 
 ## **References**
