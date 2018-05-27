@@ -1,7 +1,10 @@
 import sys
+#python 3.6.0
+
 sys.setrecursionlimit(1500)
+
 def ok(top):
-    '''
+'''
 Initial procedure. I used this to visualize the first couple replies / iterations of the messages.
 '''
     iteration = 0 # counts how many replies have been made
