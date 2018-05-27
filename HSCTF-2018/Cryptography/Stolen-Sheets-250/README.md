@@ -1,4 +1,4 @@
-# Title
+# Stolen Sheets
 **Category:** Cryptography **Points:** 250 **Solves:** 238
 
 **Description:**
