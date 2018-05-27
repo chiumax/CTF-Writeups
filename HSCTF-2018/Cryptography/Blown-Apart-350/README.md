@@ -18,7 +18,7 @@ What we want is the plain text, and the only way to get that is by finding `d` (
 
 They gave me 720 `n`s which could mean that a pair of them could have a common `p` factor. Let's try it out!
 
-Doing some research, we find out that [Euclid's Algorithm]() is very efficient. Better than brute forcing at least. 
+Doing some research, we find out that [Euclid's Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm) is very efficient. Better than brute forcing at least. 
 
 I wrote a program utilizing `gcd()` from the `fractions` module
 
