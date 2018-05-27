@@ -2,7 +2,7 @@
 **Category:** Cryptography **Points:** 250 **Solves:** 238
 
 **Description:**
->Keith finds a sheet of paper with the following items:wgg
+>Keith finds a sheet of paper with the following items:
 
 
 
