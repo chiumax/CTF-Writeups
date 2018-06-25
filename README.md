@@ -1,6 +1,8 @@
 # CTF-Writeups :checkered_flag:
 A collection of writeups to some of the CTFs I've participated in. These writeups are in my opinion a little bit too in depth, but the purpose of this is to show my thought process while completing challenges.
 
+If you have suggestions on making this project better, I'd appreciate it!
+
 ## **CTFs that I have participated in :raising_hand:**
 
 * [2018] HSCTF 2018 - https://hsctf.com/ | [Writeup](https://github.com/dumblole/CTF-Writeups/tree/master/HSCTF-2018)
