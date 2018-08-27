@@ -22,7 +22,7 @@ Completed challenges I did:
 * [Blank-5](https://github.com/dumblole/CTF-Writeups/tree/master/TJCTF-2018/Web/Blank-5)
 * [Trippy-5](https://github.com/dumblole/CTF-Writeups/tree/master/TJCTF-2018/Miscellaneous/Trippy-5)
 * [Weird-Logo-5](https://github.com/dumblole/CTF-Writeups/tree/master/TJCTF-2018/Forensics/Weird-Logo-5)
-* [Cookie-Monster-10](https://github.com/dumblole/CTF-Writeups/tree/master/Web/Cookie-Monster-10)
+* [Cookie-Monster-10](https://github.com/dumblole/CTF-Writeups/tree/master/TJCTF-2018/Web/Cookie-Monster-10)
 * [Central-Savings-Account-10](https://github.com/dumblole/CTF-Writeups/tree/master/TJCTF-2018/Web/Central-Savings-Account-10)
 * [Vinegar-15](https://github.com/dumblole/CTF-Writeups/tree/master/TJCTF-2018/Cryptography/Vinegar-15)
 * [Interference-15](https://github.com/dumblole/CTF-Writeups/tree/master/TJCTF-2018/Miscellaneous/Interference-15)
