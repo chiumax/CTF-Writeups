@@ -20,7 +20,11 @@ The second image showed something promising:
 
 I could barely make out the QR code that is embedded in it; let alone scan it.
 
+![fuzzy qr code img](https://github.com/dumblole/CTF-Writeups/blob/master/TJCTF-2018/images/download.png)
+
 Since the background is only consisted of two colors, I thought it wouldn't be too difficult to just write a python script that sharpened the image for us (script located in repo):
+
+![clear qr code img](https://github.com/dumblole/CTF-Writeups/blob/master/TJCTF-2018/images/edit.png)
 
 Scan the QR code.
 
