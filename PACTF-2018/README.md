@@ -4,11 +4,11 @@
 </p>
 
 ### Round 1 Only
-Key| Value
----|---
-Team|dumblole
-Score|210
-Place|263/1737
+| Key   | Value    |
+| ----- | -------- |
+| Team  | dumblole |
+| Score | 210      |
+| Place | 263/1737 |
 
 ![scoreboard](https://github.com/dumblole/CTF-Writeups/blob/master/PACTF-2018/images/scoreboard.PNG)
 
