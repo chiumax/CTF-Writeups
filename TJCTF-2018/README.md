@@ -9,7 +9,7 @@
 | Score | 245      |
 | Place | 210/1016 |
 
-![scoreboard](https://github.com/dumblole/CTF-Writeups/blob/master/TJCTF-2018/images/scoreboard.PNG)
+![scoreboard](https://github.com/dumblole/CTF-Writeups/blob/master/TJCTF-2018/images/scoreboard.png)
 
 Write ups for the problems I did for [TJCTF 2018](https://tjctf.org/ "2018 TJCTF").
 
