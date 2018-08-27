@@ -14,4 +14,6 @@ Play around with the bits of the image [here](https://incoherency.co.uk/image-st
 
 We can see the flag hidden in the image:
 
+![image](https://github.com/dumblole/CTF-Writeups/blob/master/TJCTF-2018/images/weird-logo.png)
+
 **Flag: tjctf{in_plain_sight}**
