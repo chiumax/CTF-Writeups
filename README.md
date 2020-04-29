@@ -15,7 +15,7 @@ If you have suggestions on making this project better, I'd appreciate it!
 
 ## **CTF Teams I've been a part of :family:**
 
-- **L Distribution Rejects** (current)
+- **L Distribution Rejects**
 - **L Distribution**
 - **dumblole** (solo)
 - **I <3 Megumin**
